@@ -5,4 +5,4 @@ function isOdd(number) {
     return `Thats an even better number`;
   }
 }
-console.log(isOdd(14));
+isOdd();
